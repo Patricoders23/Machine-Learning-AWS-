@@ -419,30 +419,6 @@ Machine-Learning-AWS/
 
 ---
 
-## 🗺️ Roadmap
-
-### Short-term (Next Month)
-- [ ] Add unit tests for preprocessing functions
-- [ ] Create Docker container for easy deployment
-- [ ] Add data validation scripts
-- [ ] Improve documentation with more examples
-
-### Medium-term (2-3 Months)
-- [ ] Implement Deep Learning models (TensorFlow/PyTorch)
-- [ ] Create REST API with FastAPI
-- [ ] Add model interpretability (SHAP, LIME)
-- [ ] Deploy on AWS SageMaker
-- [ ] Create Streamlit dashboard
-
-### Long-term (6+ Months)
-- [ ] Implement MLOps pipeline with MLflow
-- [ ] Add A/B testing framework
-- [ ] Create comprehensive model monitoring
-- [ ] Automated retraining pipeline
-- [ ] Production deployment on AWS
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -464,7 +440,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 👩‍💻 About the Author
 
-**Patricia Lugo**  
+**Patricia García**  
 *Petroleum Engineer → Data Scientist | ML Engineer*
 
 I'm a Petroleum Engineer successfully transitioning into Data Science and Machine Learning. I combine engineering rigor with data-driven innovation to solve complex business problems.
@@ -504,17 +480,6 @@ I'm a Petroleum Engineer successfully transitioning into Data Science and Machin
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### MIT License Summary
-
-```
-Copyright (c) 2024 Patricia Lugo
-
-Permission is hereby granted, free of charge, to use, copy, modify, merge, 
-publish, distribute, sublicense, and/or sell copies of the Software.
-```
-
----
-
 ## 🙏 Acknowledgments
 
 - **AWS** for the comprehensive Machine Learning course and resources
@@ -535,12 +500,6 @@ publish, distribute, sublicense, and/or sell copies of the Software.
 ### Related Projects
 - [My Data Science Portfolio](your-portfolio-link)
 - [Other ML Projects](your-other-repos)
-
-### Recommended Reading
-- "Hands-On Machine Learning" by Aurélien Géron
-- "The Elements of Statistical Learning"
-- "Python Data Science Handbook" by Jake VanderPlas
-
 ---
 
 <div align="center">
